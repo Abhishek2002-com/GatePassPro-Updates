@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<item>
-    <version>1.0</version>
-    <url>https://github.com/YOUR_USERNAME/GatePassPro-Updates/releases/download/v1.1/GatePassPro_Setup.zip</url>
-    <changelog>- Premium Dashboard with Action Center added&#x0a;- Smart Sorting for Renewed workers fixed&#x0a;- Restricted Operator permissions for security</changelog>
-</item>
+<update>
+    <version>1.1</version>
+    <url>https://github.com/Abhishek2002-com/GatePassPro-Updates/releases/download/v1.1/Gate.Pass.Pro.Setup.exe</url>
+    <changelog>
+      - App ki speed badhayi gayi hai.
+      - Naya logo add kiya gaya hai.
+    </changelog>
+</update>
