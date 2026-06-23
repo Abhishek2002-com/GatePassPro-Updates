@@ -1,8 +1,10 @@
 <update>
-    <version>1.1</version>
+    <version>1.2</version>
     <url>https://github.com/Abhishek2002-com/GatePassPro-Updates/releases/download/v1.1/Gate.Pass.Pro.Setup.exe</url>
     <changelog>
-      - App ki speed badhayi gayi hai.
-      - Naya logo add kiya gaya hai.
+      - Isolated Work-Order Wise Cloud Sync (Multi-PC Optimization).
+      - Advanced Automatic Gate Pass Sorting & Priority Grid.
+      - Uniform 15-Days Notifications Rules.
+      - Isolated Bulk Import Engine with Hidden Template Pop-up  
     </changelog>
 </update>
