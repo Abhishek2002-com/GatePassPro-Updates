@@ -1,9 +1,10 @@
 <update>
-    <version>1.3</version>
-    <url>https://github.com/Abhishek2002-com/GatePassPro-Updates/releases/download/v1.3/Gate.Pass.Pro.Setup.exe</url>
+    <version>1.4</version>
+    <url>https://github.com/Abhishek2002-com/GatePassPro-Updates/releases/download/v1.4/Gate.Pass.Pro.Setup.exe</url>
     <changelog>
-      - Isolated Work-Order Wise Cloud Sync (Multi-PC Optimization).
-      - Uniform 15-Days Notifications Rules.
-      - Isolated Bulk Import Engine with Hidden Template Pop-up  
+      - Smart Auto-Update System with Progress Bar.
+      - Letter Edit Bug Fixed — existing letter now updates correctly.
+      - Cloud Sync stability improvements for multi-PC setup.
+      - UI refinements across Dashboard and Gate Pass panels. 
     </changelog>
 </update>
